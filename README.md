@@ -1,4 +1,4 @@
-# Cheat CSV Scanner
+# AmCache CSV Scanner
 
 A Python tool for scanning CSV files for a set of SHA1 hashes and returning corresponding file paths. !! Specifically made for Eric Zimmerman's amcacheparser !!
 
